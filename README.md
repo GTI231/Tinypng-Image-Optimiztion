@@ -1,2 +1,2 @@
 # Tinypng-Image-Optimiztion
-This Repository uses the Tinypng APIto optimize  images. 
+This Repository uses the Tinypng API to optimize  images. 
